@@ -1,6 +1,6 @@
-# Hi, I'm Piyush 👋
+# Hi, I'm Piyush 👋 
 
-📍 Mumbai / Bengaluru | 🛠 Indie Hacker & Builder
+📍 Mumbai / Bengaluru | 🛠 Indie Hacker & Builder | I solve problems, one project at a time
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,4 +23,4 @@ Building [OpenScout](https://openscout.so) — helping brands track mentions acr
 ## Get in Touch
 
 - 🐦 [@PiyushDinde](https://twitter.com/PiyushDinde)
-- 🌐 [openscout.so](https://openscout.so)
+- email pd@openscout.so
