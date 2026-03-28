@@ -16,7 +16,7 @@ Building [OpenScout](https://openscout.so) — helping brands track mentions acr
 ## Current Projects
 
 - 🔭 [OpenScout](https://openscout.so) - AI-powered brand monitoring across Reddit, Twitter, LinkedIn & Hacker News
-- ✏️ [Contenu](https://contenu.space) - Capture content from the web and generate AI-powered posts for LinkedIn, Twitter & Reddit
+- ✏️ [Contenu](https://contenu.space) - Save content from the web and repurpose it into AI-powered posts for LinkedIn, Twitter & Reddit
 - 🛒 [Carthole](https://chromewebstore.google.com/detail/carthole-analyse-spends-o/hhfjjapooeokfkmfloodnjfbnenodbmd) - Chrome extension to analyse spends on quick commerce apps
 - 🚫 [Site Blocker](https://chromewebstore.google.com/detail/site-blocker-stay-focused/dijdmahclcgllojidimojmofehfegonj) - Free Chrome extension that blocks distracting websites with no limits
 - 💬 [whatsreply](https://github.com/piyushdinde/whatsreply) - WhatsApp reply automation tool
