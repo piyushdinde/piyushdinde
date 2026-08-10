@@ -23,5 +23,5 @@ Building [OpenScout](https://openscout.so) — helping brands track mentions acr
 
 ## Get in Touch
 
-- 🐦 [@PiyushDinde](https://twitter.com/PiyushDinde)
+- Twitter/X [@PiyushDinde](https://twitter.com/PiyushDinde)
 - email pd@openscout.so
